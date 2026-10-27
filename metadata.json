@@ -1,0 +1,6 @@
+{
+  "name": "Online Courses",
+  "description": "منصة الكورسات والمحاضرات الجامعية - تصفح محاضرات وسكاشن وتكليفات وملخصات الفرق الدراسية الأربعة مع لوحة تحكم متقدمة للمشرفين والأساتذة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
